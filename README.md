@@ -1,36 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This project marked my first foray into Next.js development. Despite having prior experience with React projects, I was particularly impressed by the capabilities of Next.js, which significantly simplified server-side tasks.
 
-## Getting Started
+During the development process, I faced a few hurdles. Although Next.js provides the useRouter component for easy routing, I initially struggled with its implementation and had to refer back to the documentation for guidance.
 
-First, run the development server:
+My main goal in undertaking this project was to gain a better grasp of server-side functionality. To speed up frontend development, I decided to use Material Tailwind. I drew inspiration from a tutorial on YouTube by HuXnWebdev, which motivated me to dive into this project for learning and exploration.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+For those interested, the deployed version of the project is available at the following URL: https://user-management-project-kappa.vercel.app/.
