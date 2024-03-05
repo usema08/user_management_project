@@ -4,5 +4,6 @@ During the development process, I faced a few hurdles. Although Next.js provides
 
 My main goal in undertaking this project was to gain a better grasp of server-side functionality. To speed up frontend development, I decided to use Material Tailwind. I drew inspiration from a tutorial on YouTube by HuXnWebdev, which motivated me to dive into this project for learning and exploration.
 
+This is also the first project in which i use tailwind CSs.
 
 For those interested, the deployed version of the project is available at the following URL: https://user-management-project-kappa.vercel.app/.
